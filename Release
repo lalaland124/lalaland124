@@ -1,11 +1,11 @@
-Origin: julioverne's Repo
-Label: julioverne
+Origin: dragonslayer4832's Repo
+Label: dragonslayer4832
 Suite: stable
 Version: 1.0
-Codename: julioverne
+Codename: dragonslayer4832
 Architecture: iphoneos-arm
 Components: main
-Description: julioverne's Tweaks
+Description: dragonslayer4832's tweaks he reposted
 MD5Sum:
- cd0a51524dc8ed5d9ff37a6d1731a042 17075 Packages
- 51cab80d619aa04d0b66566def0ab450 5028 Packages.bz2
+ e97b9fe811b27ec6e66f64e399503ccc 481 Packages
+ ee764d1889aab9f85e202eeeb4434dbd 370 Packages.bz2
