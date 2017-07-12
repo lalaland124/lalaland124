@@ -25,6 +25,6 @@ MD5sum: b83d34b89564b6f5d78eb9e111cee812
 SHA1: d700c1cbe20068ad331c6c42a382f031e6c6d21e
 SHA256: 2edbf86f3fe9ee9f4ebac46589e6d92dde3f31a5f3a8847521d69fbcd4b44aaf
 Description: Send useful crash info to developers
-Name: 
+Name: CrashReporter
 Author: Lance Fetters (ashikase) <camowilson89581@gmail.com>
 
