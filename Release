@@ -5,7 +5,4 @@ Version: 1.0
 Codename: dragonslayer4832
 Architecture: iphoneos-arm
 Components: main
-Description: dragonslayer4832's tweaks he reposted
-MD5Sum:
- e97b9fe811b27ec6e66f64e399503ccc 481 Packages
- ee764d1889aab9f85e202eeeb4434dbd 370 Packages.bz2
+Description: dragonslayer4832's repo where he reposts tweaks
