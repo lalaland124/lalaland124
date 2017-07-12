@@ -1,0 +1,15 @@
+Package: com.dragonslayer4832.activator
+Section: System
+Maintainer: rpetrich
+Architecture: iphoneos-arm
+Version: 1.9.12
+Depends: mobilesubstrate
+Filename: ./libactivator_1.9.12_iphoneos-arm.deb
+Size: 1176614
+MD5sum: 8a7c566035e623cacddf24f687a510ae
+SHA1: e910c6678a9609c0db975a6e48572aac473da5f3
+SHA256: 7ede883993ba708095c826cb2b62e1dfcde3b93688b8002da3e4f25833b96abb
+Description: Custom gestures basically
+Name: Activator
+Author: rpetrich <rpetrich@rpetrich.com>
+
