@@ -43,3 +43,48 @@ Description: A beautiful theme for Anemoboard!
 Name: Milkshake
 Author: I don't know sorry <camowilson89581@gmail.com>
 
+Package: com.dragonslayer4832.iCleanerPro
+Section: Tweaks
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 7.6.1
+Depends: mobilesubstrate
+Filename: ./com.exile90.icleanerpro_7.6.1_iphoneos-arm.deb
+Size: 3476514
+MD5sum: 1092ade3fa86f47806ad6a95674b6b81
+SHA1: 02d6830fadc41ce99a5b117cc92f413c819f8eb7
+SHA256: bb71b17f473d3d347245ca79446873b7d4377dcd7efadc39c9bc6d4da4b8b25e
+Description: The first real iOS system cleaner & optimizer
+Name: iCleaner Pro
+Author: Ivano Bilenchi <camowilson89581@gmail.com>
+
+Package: com.dragonslayer4832.filza
+Section: Tweaks
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 3.3.2
+Depends: mobilesubstrate
+Filename: ./com.tigisoftware.filza_3.3.2_iphoneos-arm.deb
+Size: 9727168
+MD5sum: 54c912c7562948fc63cf96fb51668935
+SHA1: 99a62d7f63e0fc4e8f6eca340d0790a2ad5d50f5
+SHA256: 5a87a7a0cce9561703e4c89de51331bb75ee4d02df949616420c081b0b9ae484
+Description: File Manager for iOS. Supports iOS 7+
+Name: Filza File Manager
+Author: TIGI Software <camowilson89581@gmail.com>
+
+Package: com.dragonslayer4832.chirp
+Section: Tweaks
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 0.0.2
+Depends: mobilesubstrate
+Filename: ./ca.candoizo.chirp_0.0.2_iphoneos-arm.deb
+Size: 9458
+MD5sum: bab025ef87960c9db24a1cf6b10939eb
+SHA1: 68bdd582c33b59d5ec5f815bc8a9bfc335e00806
+SHA256: aef19c832781883c9f65e0179ba8567a248c79f81dd3d6020a69f1a07e475b30
+Description: Wholesome reminders on your lockscreen
+Name: Chirp
+Author: candoizo <camowilson89581@gmail.com>
+
