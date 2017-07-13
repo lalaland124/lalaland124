@@ -145,6 +145,7 @@ MD5sum: 2d4d3ac507c61a9fb002817102548661
 SHA1: e44865b60a1de1536d3d23200063bfd8d58e8bf7
 SHA256: 7b9f5d0429b4a5ed8e291cf562eea5f4f131d57c1518b9db338e4eab412393a0
 Description: Make gmail better! Faster account switching
+Name: Gmail ++
 Author: UnlimApps Inc <camowilson89581@gmail.com>
 
 Package: com.dragonslayer4832.gramplus
@@ -159,6 +160,7 @@ MD5sum: 6b1e99fd70ec015951830e9362340cc0
 SHA1: 7412fa184a4b7b92f7dbf70586eaf705d19261ad
 SHA256: 87463adcc77a514443ef80599712c0e568f69f8248e298a1393f1115af99d246
 Description: Download & Copy Instagram media
+Name: Instagram ++
 Author: UnlimApps Inc <camowilson89581@gmail.com>
 
 Package: com.dragonslayer4832.ytpp
@@ -173,5 +175,6 @@ MD5sum: 9ca91baaf3a8513a93cd403344f777c8
 SHA1: fac2ba595c4bbcd9bddf66d7c6339fa3ee42a392
 SHA256: fb01886801af3d6768f3473d593dd0e85c5efdab1f3ebf64d338ef8e6a55a823
 Description: The YouTube tweak that makes YouTube easier and more convenient to use, allows video downloads and playback speed controls
+Name: YouTube ++
 Author: UnlimApps Inc <camowilson89581@gmail.com>
 
