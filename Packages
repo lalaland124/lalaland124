@@ -118,3 +118,60 @@ Description: Give your iPhone, iPad, or iPod Touch a graphical overhaul!
 Name: WinterBoard
 Author: Jay Freeman (saurik) <camowilson89581@gmail.com>
 
+Package: com.dragonslayer4832.fbpp
+Section: Tweaks
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 1.6r-30
+Depends: mobilesubstrate
+Filename: ./com.unlimapps.fbpp_1.6r-30_iphoneos-arm.deb
+Size: 2558708
+MD5sum: 65bf5afc517b3f2c5fc0c80031223a4c
+SHA1: 484278c3154c1c464bde566a7d870477bdde89e7
+SHA256: 4075bdc4fb6b47a623e3849bf0f6db50d8d39ec637926e6f6581081823da123b
+Description: The Facebook tweak that allows you to turn off read receipts, use the in-app messenger, save/download videos and much more!
+Name: Facebook ++
+Author: UnlimApps Inc <camowilson89581@gmail.com>
+
+Package: com.dragonslayer4832.gmailpp
+Section: Tweaks
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 1.0r-25
+Depends: mobilesubstrate
+Filename: ./com.unlimapps.gmailpp_1.0r-25_iphoneos-arm.deb
+Size: 6133568
+MD5sum: 2d4d3ac507c61a9fb002817102548661
+SHA1: e44865b60a1de1536d3d23200063bfd8d58e8bf7
+SHA256: 7b9f5d0429b4a5ed8e291cf562eea5f4f131d57c1518b9db338e4eab412393a0
+Description: Make gmail better! Faster account switching
+Author: UnlimApps Inc <camowilson89581@gmail.com>
+
+Package: com.dragonslayer4832.gramplus
+Section: Tweaks
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 1.8r-38
+Depends: mobilesubstrate
+Filename: ./com.unlimapps.gramplus_1.8r-38_iphoneos-arm.deb
+Size: 4326720
+MD5sum: 6b1e99fd70ec015951830e9362340cc0
+SHA1: 7412fa184a4b7b92f7dbf70586eaf705d19261ad
+SHA256: 87463adcc77a514443ef80599712c0e568f69f8248e298a1393f1115af99d246
+Description: Download & Copy Instagram media
+Author: UnlimApps Inc <camowilson89581@gmail.com>
+
+Package: com.dragonslayer4832.ytpp
+Section: Tweaks
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 1.4r-46
+Depends: mobilesubstrate
+Filename: ./com.unlimapps.ytpp_1.4r-46_iphoneos-arm.deb
+Size: 3170380
+MD5sum: 9ca91baaf3a8513a93cd403344f777c8
+SHA1: fac2ba595c4bbcd9bddf66d7c6339fa3ee42a392
+SHA256: fb01886801af3d6768f3473d593dd0e85c5efdab1f3ebf64d338ef8e6a55a823
+Description: The YouTube tweak that makes YouTube easier and more convenient to use, allows video downloads and playback speed controls
+Author: UnlimApps Inc <camowilson89581@gmail.com>
+
