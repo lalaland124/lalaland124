@@ -208,3 +208,18 @@ Description: MobileSubstrate patch for the iOS 9.3.3 JailbreakMe
 Name: jbmepatch
 Author: qwertyoruiop <qwertyoruiop@qwertyoruiop.com>
 
+Package: com.dragonslayer4832.redsnowspringy
+Section: Themes
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 1
+Depends: mobilesubstrate
+Filename: debs//com.rmdta.redsnow_1_iphoneos-arm.deb
+Size: 5760248
+MD5sum: 4bd54130b0213cb1ee535d00eaeafa96
+SHA1: 44acf29f545af40a11256b3391cd0560ba582ba7
+SHA256: 872177d895a7970a5502d1c370403e1ea7fe12adf1bf092897df2d57a6655b22
+Description: Redsn0w verbose boot respring animation for Springy
+Name: VerboseSpring
+Author: rmdta <unknown@unknown.com>
+
