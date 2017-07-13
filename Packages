@@ -4,7 +4,7 @@ Maintainer: rpetrich
 Architecture: iphoneos-arm
 Version: 1.9.12
 Depends: mobilesubstrate
-Filename: ./libactivator_1.9.12_iphoneos-arm.deb
+Filename: debs//libactivator_1.9.12_iphoneos-arm.deb
 Size: 1176614
 MD5sum: 8a7c566035e623cacddf24f687a510ae
 SHA1: e910c6678a9609c0db975a6e48572aac473da5f3
@@ -19,7 +19,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 1.15.0-1
 Depends: mobilesubstrate
-Filename: ./crash-reporter_1.15.0-1_iphoneos-arm.deb
+Filename: debs//crash-reporter_1.15.0-1_iphoneos-arm.deb
 Size: 332612
 MD5sum: b83d34b89564b6f5d78eb9e111cee812
 SHA1: d700c1cbe20068ad331c6c42a382f031e6c6d21e
@@ -34,7 +34,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 1.3.1
 Depends: mobilesubstrate
-Filename: ./Milkshake1.3.1.deb
+Filename: debs//Milkshake1.3.1.deb
 Size: 28894530
 MD5sum: 6dd56a098266b1eae77bfe170ae9fe2c
 SHA1: 653e35db675ec4054a80c094a63aa1f6467fe3b6
@@ -49,7 +49,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 7.6.1
 Depends: mobilesubstrate
-Filename: ./com.exile90.icleanerpro_7.6.1_iphoneos-arm.deb
+Filename: debs//com.exile90.icleanerpro_7.6.1_iphoneos-arm.deb
 Size: 3476514
 MD5sum: 1092ade3fa86f47806ad6a95674b6b81
 SHA1: 02d6830fadc41ce99a5b117cc92f413c819f8eb7
@@ -64,7 +64,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 3.3.2
 Depends: mobilesubstrate
-Filename: ./com.tigisoftware.filza_3.3.2_iphoneos-arm.deb
+Filename: debs//com.tigisoftware.filza_3.3.2_iphoneos-arm.deb
 Size: 9727168
 MD5sum: 54c912c7562948fc63cf96fb51668935
 SHA1: 99a62d7f63e0fc4e8f6eca340d0790a2ad5d50f5
@@ -79,7 +79,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 0.0.2
 Depends: mobilesubstrate
-Filename: ./ca.candoizo.chirp_0.0.2_iphoneos-arm.deb
+Filename: debs//ca.candoizo.chirp_0.0.2_iphoneos-arm.deb
 Size: 9458
 MD5sum: bab025ef87960c9db24a1cf6b10939eb
 SHA1: 68bdd582c33b59d5ec5f815bc8a9bfc335e00806
@@ -94,7 +94,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 2.1.4-3
 Depends: mobilesubstrate
-Filename: ./anemone_2.1.4-3.deb
+Filename: debs//anemone_2.1.4-3.deb
 Size: 1872790
 MD5sum: 254a4e1c17f3d838bd54beffcf0b0321
 SHA1: 0a5c46e387fcbaad1f532d19fb8a2ad2203850d2
@@ -109,7 +109,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 0.9.3919
 Depends: mobilesubstrate
-Filename: ./winterboard_0.9.3919_iphoneos-arm.deb
+Filename: debs//winterboard_0.9.3919_iphoneos-arm.deb
 Size: 111104
 MD5sum: 903869bcc23c88eeb71615e833e626af
 SHA1: 569cc3f77a3ca6cd2046a84bc5c3a68fbb2f00ea
@@ -124,7 +124,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 1.6r-30
 Depends: mobilesubstrate
-Filename: ./com.unlimapps.fbpp_1.6r-30_iphoneos-arm.deb
+Filename: debs//com.unlimapps.fbpp_1.6r-30_iphoneos-arm.deb
 Size: 2558708
 MD5sum: 65bf5afc517b3f2c5fc0c80031223a4c
 SHA1: 484278c3154c1c464bde566a7d870477bdde89e7
@@ -139,7 +139,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 1.0r-25
 Depends: mobilesubstrate
-Filename: ./com.unlimapps.gmailpp_1.0r-25_iphoneos-arm.deb
+Filename: debs//com.unlimapps.gmailpp_1.0r-25_iphoneos-arm.deb
 Size: 6133568
 MD5sum: 2d4d3ac507c61a9fb002817102548661
 SHA1: e44865b60a1de1536d3d23200063bfd8d58e8bf7
@@ -154,7 +154,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 1.8r-38
 Depends: mobilesubstrate
-Filename: ./com.unlimapps.gramplus_1.8r-38_iphoneos-arm.deb
+Filename: debs//com.unlimapps.gramplus_1.8r-38_iphoneos-arm.deb
 Size: 4326720
 MD5sum: 6b1e99fd70ec015951830e9362340cc0
 SHA1: 7412fa184a4b7b92f7dbf70586eaf705d19261ad
@@ -169,7 +169,7 @@ Maintainer: dragonslayer4832
 Architecture: iphoneos-arm
 Version: 1.4r-46
 Depends: mobilesubstrate
-Filename: ./com.unlimapps.ytpp_1.4r-46_iphoneos-arm.deb
+Filename: debs//com.unlimapps.ytpp_1.4r-46_iphoneos-arm.deb
 Size: 3170380
 MD5sum: 9ca91baaf3a8513a93cd403344f777c8
 SHA1: fac2ba595c4bbcd9bddf66d7c6339fa3ee42a392
