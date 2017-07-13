@@ -178,3 +178,18 @@ Description: The YouTube tweak that makes YouTube easier and more convenient to 
 Name: YouTube ++
 Author: UnlimApps Inc <camowilson89581@gmail.com>
 
+Package: com.dragonslayer4832.sbsettings
+Section: System
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 6.0.5-1
+Depends: mobilesubstrate
+Filename: debs//sbsettings_6.0.5-1.deb
+Size: 2139060
+MD5sum: 89103464ba327fc91234afab4655040f
+SHA1: d14772eeaed7c32999fd45b34d16ada68ff33c07
+SHA256: a8a7c2c403638566d0f670ecce1dff06a04f55fe984eb074a16e275c12aa7581
+Description: Welcome to convenience! Move your important toggles directly into Springboard where they are always avaliable instantly while other apps are running.
+Name: SBSettings
+Author: BigBoss <camowilson89581@gmail.com>
+
