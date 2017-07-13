@@ -193,3 +193,18 @@ Description: Welcome to convenience! Move your important toggles directly into S
 Name: SBSettings
 Author: BigBoss <camowilson89581@gmail.com>
 
+Package: com.dragonslayer4832.jbmepatch
+Section: System
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 1.0.0-3+debug
+Depends: mobilesubstrate
+Filename: debs//com.qwertyoruiop.jbmepatch_1.0.0-3+debug_iphoneos-arm.deb
+Size: 4038
+MD5sum: 87af87db6771028ee60889eef53a7985
+SHA1: e5c57cc7c26efb92ca8aee5800cd10dfd3d2eee1
+SHA256: 8173da7f149d3e2aa3a4229612742e9c79d54d30bec65932fa1046c8c236e006
+Description: MobileSubstrate patch for the iOS 9.3.3 JailbreakMe
+Name: jbmepatch
+Author: qwertyoruiop <qwertyoruiop@qwertyoruiop.com>
+
