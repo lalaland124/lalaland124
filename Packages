@@ -223,33 +223,3 @@ Description: Redsn0w verbose boot respring animation for Springy
 Name: VerboseSpring
 Author: rmdta <unknown@unknown.com>
 
-Package: com.dragonslayer4832.repower
-Section: System
-Maintainer: dragonslayer4832
-Architecture: iphoneos-arm
-Version: 2.0-4
-Depends: mobilesubstrate
-Filename: debs//com.dragonslayer4832.repower_2.0-4_iphoneos-arm.deb
-Size: 60418
-MD5sum: 6560cbd3a5ed7b6574b1fc197640445d
-SHA1: 625b799afaeff8f80cfefe8f9239e6e1863c3994
-SHA256: 1b58ff636a23a377d8deb6a805291d006e0fc20ed2b22c7e7bb88b420637f5d2
-Description: Compatible with iOS 7, 8, and 9. Power Off, Reboot, and Respring from the Power Down Menu
-Name: RePower
-Author: HASHBANG <unknown@unknown.com>
-
-Package: com.dragonslayer4832.greatresprings
-Section: Tweaks
-Maintainer: dragonslayer4832
-Architecture: iphoneos-arm
-Version: 1.4
-Depends: mobilesubstrate
-Filename: debs//makerespringsgreatagain_1.4.deb
-Size: 5002
-MD5sum: 1244b66e1ec95609f3345e88ad16d330
-SHA1: be869c13f82b762a53b1676611b3eb339ef70701
-SHA256: dedd809cde963a5d08bf27d5d9d4eaaf6a5943a40ff4a60b681a7597b8d6a75b
-Description: Brings the apple back to Yalu resprings (also fixes Springy to work with iOS 10)
-Name: MakeRespringsGreatAgain 
-Author: Unknown <unknown@unknown.com>
-
