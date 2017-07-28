@@ -223,3 +223,18 @@ Description: Redsn0w verbose boot respring animation for Springy
 Name: VerboseSpring
 Author: rmdta <unknown@unknown.com>
 
+Package: com.dragonslayer4832.fuckthatgreybox
+Section: Tweaks
+Maintainer: dragonslayer4832
+Architecture: iphoneos-arm
+Version: 1
+Depends: mobilesubstrate
+Filename: debs//FuckThatGreyBox.deb
+Size: 2854
+MD5sum: 306a98faf298de4a5d317253707672b9
+SHA1: c666e827b20979f7afcd1e660ff727ed4aecea19
+SHA256: 4e63978fef3e4937866a3f54865c047fc41bcb29497fcff491c0548257b28cb7
+Description: Remove that fucking grey box from CC
+Name: FuckThatGreyBox
+Author: unknown <unknown@unknown.com>
+
